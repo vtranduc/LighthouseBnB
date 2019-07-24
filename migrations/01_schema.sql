@@ -46,3 +46,6 @@ create table property_reviews (
   rating smallint,
   message text
 );
+
+--------------------------------------------------------------------------------
+
