@@ -25,7 +25,7 @@ create table properties (
   country text not null,
   street text not null,
   city text not null,
-  province text not null,
+  provence text not null,
   post_code text not null,
   active boolean not null
 );
