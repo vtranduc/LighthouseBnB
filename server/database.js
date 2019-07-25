@@ -87,7 +87,7 @@ const addUser =  function(user) {
 
     // console.log(values)
 
-   return pool.query(queryString, values).then()
+   return pool.query(queryString, values)
   
 
 }
